@@ -8,6 +8,7 @@ routers:
     login: admin
     password: admin
     gateway: 192.168.0.1
+    table: rmd
 
 domain:
   - nvcr.io
