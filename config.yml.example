@@ -1,6 +1,6 @@
 rmd:
   lookup: 5s
-  ttl: 10s
+  ttl: 240h
 
 routers:
   - address: localhost
